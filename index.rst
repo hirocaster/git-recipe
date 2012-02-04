@@ -13,6 +13,7 @@ Contents:
 
    about_git
    ignore
+   reset
 
 
 
